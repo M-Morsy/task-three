@@ -1,0 +1,283 @@
+
+*
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+body
+{
+	background-color: black;
+}
+
+img
+{
+	padding: 0px;
+}
+p
+{
+	padding: 10px;
+}
+
+h1
+{
+	font-size: 40px;
+	padding: 5px;
+}
+
+a:link 
+{
+    color: white;
+    
+    text-decoration: none;
+}
+
+a:hover 
+{
+    color: white;
+    
+    text-decoration: none;
+}
+
+hr
+{
+	background-color: orange;
+	padding:1px;
+	width: 150px;
+	
+	display: block;
+
+}
+
+.black-background
+{
+	background-color: black;
+}
+
+.white-background
+{
+	background-color: white;
+}
+
+.grey-background
+{
+	background-color: #F5F5F5;
+}
+.bar
+{
+
+ height: 70px;
+ background-color: black;
+ padding-bottom: 0px;
+}
+
+#section-two
+{
+	background-image: inherit;
+
+}
+
+.logo
+{
+	padding-top: 30px;
+	float: left;
+	font-size: 80px;
+	
+}
+<!-- used for horizontal navigation bar in section one --> 
+.navigate
+{
+	font-size: 20px;
+	float: right;
+	padding-right:15px;
+
+}
+
+<!-- used for vertical navigation bar in section two --> 
+.navigate-two
+{
+	margin: 20pxs;
+	font-size: 30px;
+}
+#TAB-ONE
+{
+	background-color: orange; 
+}
+
+
+
+<!-- 
+made to adiust navigations place 
+Not working yet
+-->
+
+.NG
+{
+	padding-right: 50px;
+}
+
+.fa
+{
+	color:grey;
+	font-size: 70px;
+	padding:30px;
+}
+
+
+
+.lefting-spacing
+{
+	left:75px;
+}
+
+<!-- here you must have a left div to match with the number -->
+.right-spacing
+{
+	padding-left:10%;
+}
+
+<!-- here you must have a center div to match with the number -->
+.center-spacing
+{
+	padding-left: 10%;
+}
+.fa-cloud-download
+{
+	color:orange;
+	display: inline;
+}
+
+.fa-cloud-upload
+{
+	color:orange;
+	display: inline;
+	
+	border-color: orange;
+
+}
+
+.fa-bolt
+{
+	color: orange;
+	font-size: 60px;
+}
+
+.fa-keyboard-o
+{
+	color: orange;
+	font-size: 60px;
+}
+
+.fa-lightbulb-o
+{
+	color: orange;
+	font-size: 60px;
+}
+
+#HeadingOne
+{
+	
+	padding: 10px;
+}
+
+
+#title
+{
+	font-size:50px;
+	
+}
+#white-underline
+{
+	background-color: white;
+	width: 150px;
+	float:left;
+	top: 750px;
+}
+#white-text-image
+{
+	font-size:60px;
+	color:white;
+	top:580px;
+	padding:10px;
+}
+
+#white-textL-image
+{
+	top:800px;
+	color:white;
+
+}
+#logo-image-white
+{
+	font-size: 100px;
+	color:white;
+}
+
+#logo-image-orange
+{
+	font-size:95px;
+	color:orange;
+}
+
+#button-image
+{
+	top:900px;
+}
+
+<!-- To write on images -->
+<!-- position relative makes the words flow on the image -->
+.image 
+{ 
+   position: relative;
+   height: auto;
+   width: 100%; 
+   
+}
+
+.image-floating-text
+ { 
+   position: absolute; 
+   top: 350px; 
+   
+   
+}
+
+img
+{
+	width: 100%;
+	height: auto;
+}
+
+.list-group-item-smlOne
+{
+	height: 140px;
+	width: 150px;
+}
+
+.list-group-item-sml
+{
+	height:5px;
+	padding:0px;
+	
+}
+
+.list-group-item-md
+{
+	height:70px;
+}
+.list-group-item-bg
+{
+	height:200px;
+}
+
+#photo-div
+{
+	background-image: url("https://drive.google.com/drive/folders/0B-DDVBOzmqwBY1ZMMi00VEhOQ2M");
+}
+
+
+.relative
+{position:relative; width:600px;}
+.absolute-text
+{position:absolute; top:10%; font-size:50px; padding:10px 20px; color:white; left:35%;}
+
